@@ -27,3 +27,4 @@ STU0013 | student13 | pass123 | Student | Marcus Goh | Male | student13@student.
 STU0014 | student14 | pass123 | Student | Nancy Chan | Female | student14@student.university.edu | +60123457013 | 23 | N/A
 STU0015 | student15 | pass123 | Student | Oliver Lim | Male | student15@student.university.edu | +60123457014 | 24 | N/A
 20139 | saad | 123 | Student | saadeldeen modathir | Male | saad2 | 2 | 18 | N/A
+73 | saad | 123 | Admin | 123 | Male | 123 | 123 | 20 | N/A
