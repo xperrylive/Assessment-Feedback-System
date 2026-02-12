@@ -1,9 +1,0 @@
-ASS0001 | CS101 | Quiz | Programming Basics Quiz | 20
-ASS0002 | CS101 | Assignment | Data Structure Implementation | 40
-ASS0003 | CS101 | Exam | Database Final Exam | 100
-ASS0004 | CS102 | Quiz | HTML/CSS Quiz | 20
-ASS0005 | CS102 | Assignment | Web App Project | 40
-ASS0006 | CS102 | Exam | Web Development Exam | 100
-ASS0007 | CS103 | Quiz | AI Concepts Quiz | 20
-ASS0008 | CS103 | Assignment | ML Algorithm Assignment | 40
-ASS0009 | CS103 | Exam | AI Final Exam | 100

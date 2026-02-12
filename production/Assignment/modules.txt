@@ -1,9 +1,0 @@
-CS101 | Introduction to Programming | AL001 | LEC001
-CS102 | Data Structures | AL001 | LEC002
-CS103 | Database Systems | AL001 | LEC003
-CS201 | Web Development | AL002 | LEC004
-CS202 | Software Engineering | AL002 | LEC005
-CS203 | Computer Networks | AL002 | LEC006
-CS301 | Artificial Intelligence | AL003 | LEC007
-CS302 | Machine Learning | AL003 | LEC008
-CS303 | Cybersecurity | AL003 | LEC009
